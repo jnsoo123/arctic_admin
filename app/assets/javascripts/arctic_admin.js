@@ -1,4 +1,4 @@
-//= require jquery
+//= require jquery3
 //= require jquery_ujs
 //= require arctic_admin/jquery_validate
 
